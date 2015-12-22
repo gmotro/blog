@@ -1,4 +1,4 @@
-Test Rail Blog App -GM
+Test Rail Blog App -GM today
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
